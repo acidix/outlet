@@ -57,6 +57,7 @@ All of these plugins are compatible with the [**:zap: Zap**](https://www.zapzsh.
 -   [omz-take](https://github.com/GianniBYoung/omz-take) - `Take` function from 'oh my zsh'
 -   [fzf-zellij](https://github.com/TiagoAraujoDev/fzf-zellij) - ZSH plugin to give zellij extra powers using fzf
 -   [zabb](https://github.com/Mellbourn/zabb) - a zsh plugin for finding z abbreviations
+-   [zsh-k9s](https://github.com/acidix/zsh-k9s) - a zsh plugin for managing multiple kubectl files in k9s
 
 ## CONTRIBUTING
 
